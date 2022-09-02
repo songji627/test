@@ -9,22 +9,16 @@
 <body>
 <div class="container">
 	my test html
+<<<<<<< HEAD
+	<header class="header">header</header>
+	<main>여기에 컨텐츠 들어갑니다.</main>
+=======
 	<header class="header">header야</header>
 	<main>
 		여기 작업해
-		<h1>git을 연습해보자</h1>
-		<ul>
-			<li>commit</li>
-			<li>branch</li>
-			<li>checkout</li>
-			<li>cherry-pick</li>
-			<li>reset</li>
-			<li>revert</li>
-			<li>rebase</li>
-			<li>merge</li>
-		</ul>
 	</main>
 	<footer class="footer">footer 입니다.</footer>
+>>>>>>> 400ed83 (stash pop)
 </div>
 </body>
 </html>
